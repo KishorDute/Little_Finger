@@ -1,0 +1,10 @@
+Codes,com1,com2,com3,com4,com5
+MSCH,Meeting schduled at,and accepted with Agenda of,,,
+PORD,Part number,orderd and will be deliver by,CE number,pickup and replace then part,
+GBC1,Gaurds booked for,and confirmed for,for task number:,,
+PFA,Please find the attchments,,,,
+PFAD,Please find the attchments,,,,
+GB,.++GB... Guard booking for requested ETA,"with John @ Prosegur, ref",awaiting confirmation.,,
+GC,.++GC... Guards confirmed for the requested ETA,,,,
+GN,.++GN... Guards booked for,but earliest available for,,,
+GCN,.++GCN... Guard booking canceled,,,,
